@@ -53,7 +53,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CompiledModels.cs" />
-    <Compile Include="CultureDependentAttribute.cs" />
     <Compile Include="DynamicMappingContext.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
